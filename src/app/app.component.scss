@@ -1,0 +1,23 @@
+.flex-row {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item {
+    margin: 2%;
+    padding: 5px;
+    line-height: 25px;
+}
+
+.flex-shrink {
+    flex-shrink: 1;
+    width: 50%;
+}
+
+.bg {
+    background: #3a3a3a;
+}

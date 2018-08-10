@@ -1,0 +1,31 @@
+.nav-bar {
+    padding: 0px;
+    margin: 0px;
+    //position: fixed;
+    width: 100%;
+    white-space: nowrap;
+    //min-width: 100vh;
+    background: #262626;
+    border-bottom: 1px solid #ccc;
+
+    display: flex;
+}
+
+.nav-item {
+    padding: 16px;
+    margin-right: auto;
+}
+
+.title-text {
+    padding: 0px;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.title-box {
+    padding: 0px;
+    margin: 0px;
+
+    display: flex;
+    flex-direction: column;
+}
